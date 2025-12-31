@@ -3,3 +3,7 @@
 
 *.pdb
 
+/CyDuck/.vs/CyDuck/copilot-chat/5dddd9ed/sessions
+/CyDuck/.vs/CyDuck
+/CyDuck/CyDuck/obj/Debug
+/CyDuck/packages
